@@ -38,12 +38,6 @@ function writeToLog(operationIdentifier,
         ) {
             return;
         }
-    // if (
-    //     calculationType === 'ADD' ||
-    //     calculationType === 'SUBTRACT' ||
-    //     calculationType === 'MULTIPLY' ||
-    //     calculationType === 'DIVIDE'
-    //     ) {
     
     const initialResult = currentResult;
     let mathOperator;
